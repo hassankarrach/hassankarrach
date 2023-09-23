@@ -1,4 +1,4 @@
-<img src="./Tom.gif"/>
+<img src="./Tom.gif" width ="100%"/>
 <h1 align="center">Hi all, I'm Hassan</h1>
 
 <h3 align="center">Full Stack JavaScript Developer, React.js Developer & Blockchain Developer from Casablanca, Morocco.</h3>
